@@ -1,6 +1,6 @@
 ### Задача 2
 
-[demo link]()
+[demo link](https://cheechqt.github.io/testovoe)
 
 ### Задача 1
 
