@@ -6,7 +6,8 @@
 
 ```
 
-function countBrackets(str) { const result = [0, 0];
+function countBrackets(str) { 
+  const result = [0, 0];
   const stack = [];
   for (let char of str) {
     if (char === "(" || char === "[" || char === "{") {
